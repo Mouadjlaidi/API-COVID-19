@@ -1,2 +1,2 @@
-# Site-web-e-commerce
-BLACKSHOP est spécialisée dans la vente de vêtements pour hommes.
+# API de COVID-19
+API des statistiques pour tous les pays sur COVID-19
