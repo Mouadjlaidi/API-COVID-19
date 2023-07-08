@@ -35,3 +35,8 @@ body {
     width: 80%;
     background-color: whitesmoke;
 }
+@media only screen and (max-width: 767px) {
+    .display-4 {
+      font-size: 24px;
+    }
+}
